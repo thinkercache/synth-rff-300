@@ -3,4 +3,4 @@ Synthetic Rosacea Full Face images generated using StyleGAN2-ADA.
 
 This dataset contains 300 images. 
 
-The This dataset is available at https://drive.google.com/drive/folders/1LOd
+The This dataset is available at Google-drive link[https://drive.google.com/drive/u/0/folders/1LOdmSQElfn6XmMD1777ot46mrQKec4Zw]
